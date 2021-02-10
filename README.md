@@ -1,4 +1,4 @@
-# flask_basic_todo
+# TODO_list
 
 Flask app that creates a time-stamped TODO list with Update & Delete functionality.
 
